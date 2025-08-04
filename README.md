@@ -44,3 +44,13 @@ git clone https://github.com/sunnamsriram1/Whois_4v
 cd Whois_4v
 pip install -r requirements.txt
 bash Whois_4v.py
+```
+## S_TracerX.py
+```bash
+pkg update && pkg upgrade
+pkg install python git -y
+git clone https://github.com/sunnamsriram1/Whois_4v
+cd Whois_4v
+pip install -r requirements.txt
+bash S_TracerX.py
+```
